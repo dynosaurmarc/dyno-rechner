@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "extract-inputs": "python3 scripts/extract_inputs.py",
-    "check-conflicts": "rg -n '^(<<<<<<<|=======|>>>>>>>)' README.md app scripts || true"
+    "extract-inputs": "python3 scripts/extract_inputs.py"
   },
   "dependencies": {
     "next": "14.2.5",
