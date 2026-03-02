@@ -62,3 +62,29 @@ After deployment, Vercel gives you a public URL.
   - `public/model.xlsx`
   - `app/inputs.schema.json`
 - Push to GitHub so Vercel redeploys with the new extracted inputs.
+
+## Welche Logik wurde aus der Excel übernommen?
+
+Aktuell ist **noch keine 1:1-Formel-Engine** der Excel eingebaut. Übernommen wurde:
+
+1. **Input-Erkennung**: Alle lila Zellen (`FF843DFF`) werden aus `public/model.xlsx` extrahiert.
+2. **Input-Werte als Startwerte**: Diese Werte werden direkt im UI vorbelegt.
+3. **Zwei-Vertrag-Aufteilung**: Inputs werden über die Spaltenposition in links/rechts (Vertrag 1/2) gruppiert.
+4. **Vergleichsprojektion**: Für die Visualisierung wird eine transparente, einfache Monatsprojektion genutzt (Beitrag, Rendite, Kosten).
+5. **Diagramm + Detailtabellen**: Verlauf je Tarif wird als Liniengrafik und als Monatstabelle angezeigt.
+
+> Hinweis: Die genaue Excel-Berechnungslogik (alle Original-Formeln, Sonderfälle, Rundungen, Blattverweise) ist als nächster Schritt einzuarbeiten.
+
+
+## Why conflicts keep happening (and how to reduce them)
+
+Conflicts happen because `main` and your feature branch both modify the **same files and same lines** (`README.md`, `app/page.tsx`, `app/layout.tsx`, `app/globals.css`, `app/inputs.schema.json`). Git can only auto-merge when line ranges do not overlap.
+
+To reduce conflicts:
+
+1. Click **Update branch** before continuing work.
+2. Keep only one UI variant in the branch (not switching between minimal and styled versions).
+3. Regenerate `app/inputs.schema.json` only when `public/model.xlsx` actually changed.
+4. If conflicts appear, keep one side consistently for these files and remove all markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+
+The extractor now preserves `extractedAt` when inputs did not change, so schema churn is reduced.
