@@ -1,23 +1,25 @@
-# Dyno Rechner – Web-Prototyp
+# Dyno Rechner – Web Prototype / Web-Prototyp
 
 Dieses Repository enthält einen Next.js/TypeScript-Prototyp für den Excel-basierten Altersvorsorgevergleich.
 
-## Was der Prototyp aktuell macht
+This repository contains a Next.js/TypeScript prototype for an Excel-based pension comparison.
 
-- Liest das Excel-Modell aus `public/model.xlsx`
-- Extrahiert alle lila Zellen mit Farbcode `FF843DFF`
-- Schreibt die Input-Definitionen nach `app/inputs.schema.json`
-- Rendert alle gefundenen Inputs in der UI (links Vertrag 1, rechts Vertrag 2)
-- Zeigt Vergleichsgrafik und Detailtabellen zum Guthabenverlauf
+## Features
 
-## Projektstruktur
+- Reads the Excel model from `public/model.xlsx`
+- Extracts all purple input cells with color `FF843DFF`
+- Writes extracted inputs to `app/inputs.schema.json`
+- Renders editable inputs in a two-column UI (Vertrag 1 / Vertrag 2)
+- Shows comparison chart and detailed balance tables
 
-- `public/model.xlsx` – Excel-Datei
-- `scripts/extract_inputs.py` – extrahiert lila Input-Zellen
-- `app/inputs.schema.json` – generierte Input-Struktur
-- `app/page.tsx` – UI mit Formular, Chart und Tabellen
+## Struktur / Structure
 
-## Lokal starten
+- `public/model.xlsx` – Excel file
+- `scripts/extract_inputs.py` – extraction script for purple input cells
+- `app/inputs.schema.json` – generated input schema
+- `app/page.tsx` – UI (form, chart, detail tables)
+
+## Lokal starten / Run locally
 
 ```bash
 npm install
@@ -25,30 +27,28 @@ npm run extract-inputs
 npm run dev
 ```
 
-Danach im Browser öffnen: `http://localhost:3000`
+Open: `http://localhost:3000`
 
-## Inputs nach Excel-Änderungen neu erzeugen
-
-Immer wenn `public/model.xlsx` geändert wurde:
+## Inputs neu erzeugen / Regenerate inputs
 
 ```bash
 npm run extract-inputs
 ```
 
-Dadurch wird `app/inputs.schema.json` aktualisiert.
+This updates `app/inputs.schema.json`.
 
-## Deployment auf Vercel
+## Deployment auf Vercel / Deploy to Vercel
 
-1. Repository nach GitHub pushen
-2. Auf [vercel.com](https://vercel.com) anmelden
-3. **Add New... → Project** auswählen
-4. Repository importieren
-5. Standard-Einstellungen beibehalten (Next.js wird erkannt)
-6. **Deploy** starten
+1. Push repository to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. **Add New... → Project**
+4. Import repository
+5. Keep defaults (Next.js auto-detected)
+6. Deploy
 
-## Wichtig für Updates
+## Wichtig / Important
 
-Bei Änderungen an der Excel-Datei immer gemeinsam committen:
+Bei Änderungen an der Excel-Datei immer gemeinsam committen / Always commit together:
 
 - `public/model.xlsx`
 - `app/inputs.schema.json`
