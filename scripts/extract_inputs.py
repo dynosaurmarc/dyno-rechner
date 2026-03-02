@@ -128,9 +128,22 @@ def main() -> None:
                 )
             inputs.extend(sorted(found, key=lambda item: cell_sort_key(item["cell"])))
 
+    extracted_at = datetime.now(timezone.utc).isoformat()
+    if OUTPUT_FILE.exists():
+        try:
+            existing = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
+            if (
+                existing.get("sourceFile") == str(SOURCE_FILE.relative_to(ROOT))
+                and existing.get("fillColor") == TARGET_RGB
+                and existing.get("inputs") == inputs
+            ):
+                extracted_at = existing.get("extractedAt", extracted_at)
+        except json.JSONDecodeError:
+            pass
+
     schema = {
         "sourceFile": str(SOURCE_FILE.relative_to(ROOT)),
-        "extractedAt": datetime.now(timezone.utc).isoformat(),
+        "extractedAt": extracted_at,
         "fillColor": TARGET_RGB,
         "inputs": inputs,
     }

@@ -75,3 +75,16 @@ Aktuell ist **noch keine 1:1-Formel-Engine** der Excel eingebaut. Übernommen wu
 
 > Hinweis: Die genaue Excel-Berechnungslogik (alle Original-Formeln, Sonderfälle, Rundungen, Blattverweise) ist als nächster Schritt einzuarbeiten.
 
+
+## Why conflicts keep happening (and how to reduce them)
+
+Conflicts happen because `main` and your feature branch both modify the **same files and same lines** (`README.md`, `app/page.tsx`, `app/layout.tsx`, `app/globals.css`, `app/inputs.schema.json`). Git can only auto-merge when line ranges do not overlap.
+
+To reduce conflicts:
+
+1. Click **Update branch** before continuing work.
+2. Keep only one UI variant in the branch (not switching between minimal and styled versions).
+3. Regenerate `app/inputs.schema.json` only when `public/model.xlsx` actually changed.
+4. If conflicts appear, keep one side consistently for these files and remove all markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+
+The extractor now preserves `extractedAt` when inputs did not change, so schema churn is reduced.
