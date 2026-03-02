@@ -1,0 +1,2029 @@
+{
+  "sourceFile": "public/model.xlsx",
+  "extractedAt": "2026-03-02T15:10:00.582898+00:00",
+  "fillColor": "FF843DFF",
+  "inputs": [
+    {
+      "id": "_Berechnung Guthabenverlauf_E6",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E6",
+      "value": "338.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L6",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L6",
+      "value": "338.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_E7",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E7",
+      "value": "488.1693364"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L7",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L7",
+      "value": "488.1693364"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_E8",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E8",
+      "value": "35031.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L8",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L8",
+      "value": "35031"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_I10",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "I10",
+      "value": "1.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_P10",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "P10",
+      "value": "1.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_E17",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E17",
+      "value": "0.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L17",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L17",
+      "value": "0.02"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_E18",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E18",
+      "value": "0.0"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L18",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L18",
+      "value": "0.02"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_E21",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "E21",
+      "value": "0.0069"
+    },
+    {
+      "id": "_Berechnung Guthabenverlauf_L21",
+      "sheet": "_Berechnung Guthabenverlauf",
+      "cell": "L21",
+      "value": "0.0069"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_A2",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "A2",
+      "value": "Kostenübersicht der Tarife"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_B2",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "B2",
+      "value": "Alpha"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_C2",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "C2",
+      "value": "Beta"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_D2",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "D2",
+      "value": "Gamma"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J4",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J4",
+      "value": "0.006"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L4",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L4",
+      "value": "98.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S4",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S4",
+      "value": "0.006"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U4",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U4",
+      "value": "98.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J5",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J5",
+      "value": "0.0175"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L5",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L5",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S5",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S5",
+      "value": "0.0175"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U5",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U5",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J6",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J6",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L6",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L6",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S6",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S6",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U6",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U6",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J7",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J7",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L7",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L7",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S7",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S7",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U7",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U7",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J8",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J8",
+      "value": "0.0067"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L8",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L8",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S8",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S8",
+      "value": "0.0067"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U8",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U8",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J9",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J9",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S9",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S9",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J13",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J13",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L13",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L13",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S13",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S13",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U13",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U13",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J14",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J14",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L14",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L14",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S14",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S14",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U14",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U14",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J15",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J15",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L15",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L15",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S15",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S15",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U15",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U15",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J16",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J16",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L16",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L16",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S16",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S16",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U16",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U16",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J17",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J17",
+      "value": "0.00653"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L17",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L17",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S17",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S17",
+      "value": "0.00653"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U17",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U17",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J18",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J18",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S18",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S18",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J22",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J22",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L22",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L22",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S22",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S22",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U22",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U22",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J23",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J23",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L23",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L23",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S23",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S23",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U23",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U23",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J24",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J24",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L24",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L24",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S24",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S24",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U24",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U24",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J25",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J25",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L25",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L25",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S25",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S25",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U25",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U25",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J26",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J26",
+      "value": "0.0055"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L26",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L26",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S26",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S26",
+      "value": "0.0055"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U26",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U26",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J27",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J27",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S27",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S27",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J30",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J30",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L30",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L30",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S30",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S30",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U30",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U30",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J31",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J31",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L31",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L31",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S31",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S31",
+      "value": "0.12"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U31",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U31",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J32",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J32",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L32",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L32",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S32",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S32",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U32",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U32",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J33",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J33",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L33",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L33",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S33",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S33",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U33",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U33",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J34",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J34",
+      "value": "0.00369"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L34",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L34",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S34",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S34",
+      "value": "0.024"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U34",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U34",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J35",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J35",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S35",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S35",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J38",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J38",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L38",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L38",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S38",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S38",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U38",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U38",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J39",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J39",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L39",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L39",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S39",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S39",
+      "value": "0.075"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U39",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U39",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J40",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J40",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L40",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L40",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S40",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S40",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U40",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U40",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J41",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J41",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L41",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L41",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S41",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S41",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U41",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U41",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J42",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J42",
+      "value": "0.00927"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L42",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L42",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S42",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S42",
+      "value": "0.005"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U42",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U42",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J43",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J43",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S43",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S43",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J46",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J46",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L46",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L46",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S46",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S46",
+      "value": "0.023"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U46",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U46",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J47",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J47",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L47",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L47",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S47",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S47",
+      "value": "0.015"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U47",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U47",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J48",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J48",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L48",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L48",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S48",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S48",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U48",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U48",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J49",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J49",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L49",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L49",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S49",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S49",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U49",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U49",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J50",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J50",
+      "value": "0.0097"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L50",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L50",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S50",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S50",
+      "value": "0.004"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U50",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U50",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J51",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J51",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S51",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S51",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S54",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S54",
+      "value": "0.023"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U54",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U54",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S55",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S55",
+      "value": "0.01"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U55",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U55",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S56",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S56",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U56",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U56",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S57",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S57",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U57",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U57",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S58",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S58",
+      "value": "0.004"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U58",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U58",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S59",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S59",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J62",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J62",
+      "value": "0.006"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L62",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L62",
+      "value": "98.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S62",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S62",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U62",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U62",
+      "value": "98.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J63",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J63",
+      "value": "0.0175"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L63",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L63",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S63",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S63",
+      "value": "0.065"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U63",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U63",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J64",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J64",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L64",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L64",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S64",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S64",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U64",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U64",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J65",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J65",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L65",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L65",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S65",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S65",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U65",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U65",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J66",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J66",
+      "value": "0.0067"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L66",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L66",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S66",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S66",
+      "value": "0.0219"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U66",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U66",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J67",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J67",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S67",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S67",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J71",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J71",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L71",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L71",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S71",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S71",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U71",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U71",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J72",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J72",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L72",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L72",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S72",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S72",
+      "value": "0.1"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U72",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U72",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J73",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J73",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L73",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L73",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S73",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S73",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U73",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U73",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J74",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J74",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L74",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L74",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S74",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S74",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U74",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U74",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J75",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J75",
+      "value": "0.00653"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L75",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L75",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S75",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S75",
+      "value": "0.01"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U75",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U75",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J76",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J76",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S76",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S76",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J80",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J80",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L80",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L80",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S80",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S80",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U80",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U80",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J81",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J81",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L81",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L81",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S81",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S81",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U81",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U81",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J82",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J82",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L82",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L82",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S82",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S82",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U82",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U82",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J83",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J83",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L83",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L83",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S83",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S83",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U83",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U83",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J84",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J84",
+      "value": "0.0055"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L84",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L84",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S84",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S84",
+      "value": "0.0055"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U84",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U84",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J85",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J85",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S85",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S85",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J88",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J88",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L88",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L88",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S88",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S88",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U88",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U88",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J89",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J89",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L89",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L89",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S89",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S89",
+      "value": "0.04"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U89",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U89",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J90",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J90",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L90",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L90",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S90",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S90",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U90",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U90",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J91",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J91",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L91",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L91",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S91",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S91",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U91",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U91",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J92",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J92",
+      "value": "0.00369"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L92",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L92",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S92",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S92",
+      "value": "0.00369"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U92",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U92",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J93",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J93",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S93",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S93",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J96",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J96",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L96",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L96",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S96",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S96",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U96",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U96",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J97",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J97",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L97",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L97",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S97",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S97",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U97",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U97",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J98",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J98",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L98",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L98",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S98",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S98",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U98",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U98",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J99",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J99",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L99",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L99",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S99",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S99",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U99",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U99",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J100",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J100",
+      "value": "0.00927"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L100",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L100",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S100",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S100",
+      "value": "0.00927"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U100",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U100",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J101",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J101",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S101",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S101",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J104",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J104",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L104",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L104",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S104",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S104",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U104",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U104",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J105",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J105",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L105",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L105",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S105",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S105",
+      "value": "0.0596"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U105",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U105",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J106",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J106",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L106",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L106",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S106",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S106",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U106",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U106",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J107",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J107",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L107",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L107",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S107",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S107",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U107",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U107",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J108",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J108",
+      "value": "0.0097"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_L108",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "L108",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S108",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S108",
+      "value": "0.003"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U108",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U108",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_J109",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "J109",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S109",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S109",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S112",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S112",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U112",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U112",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S113",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S113",
+      "value": "0.0867"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U113",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U113",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S114",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S114",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U114",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U114",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S115",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S115",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U115",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U115",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S116",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S116",
+      "value": "0.007"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U116",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U116",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S117",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S117",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S120",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S120",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U120",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U120",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S121",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S121",
+      "value": "0.06"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U121",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U121",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S122",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S122",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U122",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U122",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S123",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S123",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U123",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U123",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S124",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S124",
+      "value": "0.0048"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U124",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U124",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S125",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S125",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S128",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S128",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U128",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U128",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S129",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S129",
+      "value": "0.055"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U129",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U129",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S130",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S130",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U130",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U130",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S131",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S131",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U131",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U131",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S132",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S132",
+      "value": "0.008"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U132",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U132",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S133",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S133",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S136",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S136",
+      "value": "0.025"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U136",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U136",
+      "value": "60.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S137",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S137",
+      "value": "0.046"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U137",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U137",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S138",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S138",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U138",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U138",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S139",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S139",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U139",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U139",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S140",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S140",
+      "value": "2.0E-4"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_U140",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "U140",
+      "value": "0.0"
+    },
+    {
+      "id": "Kostenübersicht DYNO Tarife_S141",
+      "sheet": "Kostenübersicht DYNO Tarife",
+      "cell": "S141",
+      "value": "0.0"
+    }
+  ]
+}
