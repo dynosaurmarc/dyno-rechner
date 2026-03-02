@@ -1,23 +1,23 @@
 # Dyno Rechner – Web-Prototyp
 
-Dieses Projekt ist ein Next.js/TypeScript-Prototyp für den Excel-basierten Altersvorsorgevergleich.
+Dieses Repository enthält einen Next.js/TypeScript-Prototyp für den Excel-basierten Altersvorsorgevergleich.
 
-## Was enthalten ist
+## Was der Prototyp aktuell macht
 
-- **Automatische Input-Erkennung aus Excel**: alle lila Zellen (`FF843DFF`) aus `public/model.xlsx`
-- **Zweispaltige UI**: links **Vertrag 1**, rechts **Vertrag 2**
-- **Diagramm-Ansicht**: Guthabenverlauf beider Verträge + eingezahlte Beiträge
-- **Detailtabellen** je Vertrag (monatlicher Verlauf)
-- **Design** mit dunklem Look & **Poppins**-Schrift
+- Liest das Excel-Modell aus `public/model.xlsx`
+- Extrahiert alle lila Zellen mit Farbcode `FF843DFF`
+- Schreibt die Input-Definitionen nach `app/inputs.schema.json`
+- Rendert alle gefundenen Inputs in der UI (links Vertrag 1, rechts Vertrag 2)
+- Zeigt Vergleichsgrafik und Detailtabellen zum Guthabenverlauf
 
-## Struktur
+## Projektstruktur
 
 - `public/model.xlsx` – Excel-Datei
-- `scripts/extract_inputs.py` – extrahiert lila Input-Zellen in JSON
+- `scripts/extract_inputs.py` – extrahiert lila Input-Zellen
 - `app/inputs.schema.json` – generierte Input-Struktur
-- `app/page.tsx` – Formular, Diagramm, Detailtabellen
+- `app/page.tsx` – UI mit Formular, Chart und Tabellen
 
-## Lokaler Start
+## Lokal starten
 
 ```bash
 npm install
@@ -25,23 +25,30 @@ npm run extract-inputs
 npm run dev
 ```
 
-Dann öffnen: `http://localhost:3000`
+Danach im Browser öffnen: `http://localhost:3000`
 
-## Inputs neu erzeugen (nach Excel-Änderung)
+## Inputs nach Excel-Änderungen neu erzeugen
+
+Immer wenn `public/model.xlsx` geändert wurde:
 
 ```bash
 npm run extract-inputs
 ```
 
+Dadurch wird `app/inputs.schema.json` aktualisiert.
+
 ## Deployment auf Vercel
 
 1. Repository nach GitHub pushen
-2. Auf vercel.com neues Projekt importieren
-3. Framework wird als Next.js erkannt
-4. Deploy auslösen
+2. Auf [vercel.com](https://vercel.com) anmelden
+3. **Add New... → Project** auswählen
+4. Repository importieren
+5. Standard-Einstellungen beibehalten (Next.js wird erkannt)
+6. **Deploy** starten
 
-Wichtig bei Excel-Updates:
+## Wichtig für Updates
 
-1. `public/model.xlsx` aktualisieren
-2. `npm run extract-inputs` ausführen
-3. `app/inputs.schema.json` mit committen
+Bei Änderungen an der Excel-Datei immer gemeinsam committen:
+
+- `public/model.xlsx`
+- `app/inputs.schema.json`
